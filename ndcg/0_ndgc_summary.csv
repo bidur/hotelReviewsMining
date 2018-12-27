@@ -1,0 +1,6 @@
+Aspect (normalized) = LDA + Cooccurrence Matrix of Frequent Noun from 3 grams  
+ ReviewCount, ndgc, Spearman , Spearman_p-value 
+200,0.82,0.7,0.0
+100,0.87,0.63,0.0
+50,0.9,0.67,0.0
+0,0.9,0.62,0.0
