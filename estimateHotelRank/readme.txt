@@ -6,6 +6,13 @@ Input parameters:
 inputFileNeg = 'data/opinion-lexicon-English/negative-words.txt'
 inputFilePos = 'data/opinion-lexicon-English/positive-words.txt'
 
+# input hotel info
+inputFile = '../data/hotelInfo_TA.xlsx' # hotelInfo_YELP100.xlsx
+
+# input hotel reviews
+inputFile = '../data/TripAdvisor100.xls' #yelp_Review100_OLD.xlsx
+sheet_name='TA'	#yelp_review100
+
 # Aspect weight( i.e. regression coefficients and intercept)
 
 INTERCEPT= ?
